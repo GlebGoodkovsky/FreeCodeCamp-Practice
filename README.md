@@ -4,13 +4,13 @@ This repository is a workspace for my solutions to the [FreeCodeCamp](https://ww
 
 ## Workshops
 
-- [Report Card Printer](https://github.com/GlebGoodkovsky/FreeCodeCamp-Python-Practice/blob/main/workshops/report-card-printer.md)
-- [Employee Profile Generator](https://github.com/GlebGoodkovsky/FreeCodeCamp-Python-Practice/blob/main/workshops/employee-profile-generator.md)
-- [Bill Spliter](https://github.com/GlebGoodkovsky/FreeCodeCamp-Python-Practice/blob/main/workshops/bill-splitter.md)
-- [Movie Ticket Booking Calculator](https://github.com/GlebGoodkovsky/FreeCodeCamp-Python-Practice/blob/main/workshops/movie-ticket-booking-calculator.md)
-- [Ceaser Cipher](https://github.com/GlebGoodkovsky/FreeCodeCamp-Python-Practice/blob/main/workshops/ceaser-cipher.md)
+- [Report Card Printer](https://git.goodkovsky.com/gleb/FreeCodeCamp-Python-Practice/src/branch/main/workshops/report-card-printer.md)
+- [Employee Profile Generator](https://git.goodkovsky.com/gleb/FreeCodeCamp-Python-Practice/src/branch/main/workshops/employee-profile-generator.md)
+- [Bill Spliter](https://git.goodkovsky.com/gleb/FreeCodeCamp-Python-Practice/src/branch/main/workshops/bill-splitter.md)
+- [Movie Ticket Booking Calculator](https://git.goodkovsky.com/gleb/FreeCodeCamp-Python-Practice/src/branch/main/workshops/movie-ticket-booking-calculator.md)
+- [Ceaser Cipher](https://git.goodkovsky.com/gleb/FreeCodeCamp-Python-Practice/src/branch/main/workshops/ceaser-cipher.md)
 
 ## Labs
 
-- [Travel Weather Planner](https://github.com/GlebGoodkovsky/FreeCodeCamp-Python-Practice/blob/main/labs/travel-weather-planner.md)
-- [Apply Discount Function](https://github.com/GlebGoodkovsky/FreeCodeCamp-Python-Practice/blob/main/labs/apply-discount-function.md)
+- [Travel Weather Planner](https://git.goodkovsky.com/gleb/FreeCodeCamp-Python-Practice/src/branch/main/labs/travel-weather-planner.md)
+- [Apply Discount Function](https://git.goodkovsky.com/gleb/FreeCodeCamp-Python-Practice/src/branch/main/labs/apply-discount-function.md)
