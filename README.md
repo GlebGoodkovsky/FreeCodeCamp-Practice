@@ -14,3 +14,4 @@ This repository is a workspace for my solutions to the [FreeCodeCamp](https://ww
 
 - [Travel Weather Planner](https://git.goodkovsky.com/gleb/FreeCodeCamp-Python-Practice/src/branch/main/labs/travel-weather-planner.md)
 - [Apply Discount Function](https://git.goodkovsky.com/gleb/FreeCodeCamp-Python-Practice/src/branch/main/labs/apply-discount-function.md)
+- [Build an RPG Character](https://git.goodkovsky.com/gleb/FreeCodeCamp-Python-Practice/src/branch/main/labs/build-an-rpg-character.md)
