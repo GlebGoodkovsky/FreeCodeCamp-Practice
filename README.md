@@ -10,7 +10,12 @@ This repository is a workspace for my solutions to the [FreeCodeCamp](https://ww
 
 ##### Workshop
 
+- [Build a Curriculum Outline](https://git.goodkovsky.com/gleb/FreeCodeCamp-Practice/src/branch/main/response-web-design/html/basic-html/workshops/build-a-curriculum-outline.md)
+
 ##### Labs
+
+- [Debug Camperbot's Profile Page](https://git.goodkovsky.com/gleb/FreeCodeCamp-Practice/src/branch/main/response-web-design/html/basic-html/labs/debug-camperbots-profile-page.md)
+- [Debug a Pet Adoption Page](https://git.goodkovsky.com/gleb/FreeCodeCamp-Practice/src/branch/main/response-web-design/html/basic-html/labs/debug-a-pet-adoption-page.md)
 
 ---
 
