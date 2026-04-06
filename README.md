@@ -11,6 +11,7 @@ This repository is a workspace for my solutions to the [FreeCodeCamp](https://ww
 ##### Workshop
 
 - [Build a Curriculum Outline](https://git.goodkovsky.com/gleb/FreeCodeCamp-Practice/src/branch/main/response-web-design/html/basic-html/workshops/build-a-curriculum-outline.md)
+- [Build a Cat Photo App](https://git.goodkovsky.com/gleb/FreeCodeCamp-Practice/src/branch/main/response-web-design/html/basic-html/workshops/build-a-cat-photo-app.md)
 
 ##### Labs
 
