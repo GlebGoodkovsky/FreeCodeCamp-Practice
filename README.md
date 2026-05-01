@@ -39,4 +39,10 @@ This repository is a workspace for my solutions to the [FreeCodeCamp](https://ww
 - [Apply Discount Function](https://git.goodkovsky.com/gleb/FreeCodeCamp-Practice/src/branch/main/python/python-basics/labs/apply-discount-function.md)
 - [Build an RPG Character](https://git.goodkovsky.com/gleb/FreeCodeCamp-Practice/src/branch/main/python/python-basics/labs/build-an-rpg-character.md)
 
+### Python Basics
+
+#### Workshops
+
+- [Pin Extractor](https://git.goodkovsky.com/gleb/FreeCodeCamp-Practice/src/branch/main/python/loops-and-sequences/workshops/pin-extractor.md)
+
 ---
