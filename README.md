@@ -45,4 +45,9 @@ This repository is a workspace for my solutions to the [FreeCodeCamp](https://ww
 
 - [Pin Extractor](https://git.goodkovsky.com/gleb/FreeCodeCamp-Practice/src/branch/main/python/loops-and-sequences/workshops/pin-extractor.md)
 
+#### Labs
+
+- [Number Pattern Generator](https://git.goodkovsky.com/gleb/FreeCodeCamp-Practice/src/branch/main/python/loops-and-sequences/labs/number-pattern-generator.md)
+
+
 ---
