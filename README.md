@@ -41,13 +41,18 @@ This repository is a workspace for my solutions to the [FreeCodeCamp](https://ww
 
 ### Loops and Sequences
 
-#### Workshops
+#### Workshop
 
 - [Pin Extractor](https://git.goodkovsky.com/gleb/FreeCodeCamp-Practice/src/branch/main/python/loops-and-sequences/workshops/pin-extractor.md)
 
-#### Labs
+#### Lab
 
 - [Number Pattern Generator](https://git.goodkovsky.com/gleb/FreeCodeCamp-Practice/src/branch/main/python/loops-and-sequences/labs/number-pattern-generator.md)
 
+### Dictionaries and Sets
+
+#### Workshop
+
+- [Medical Data Validator](https://git.goodkovsky.com/gleb/FreeCodeCamp-Practice/src/branch/main/python/dictionaries-and-sets/workshop/medical-data-validator.md)
 
 ---
