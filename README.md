@@ -56,3 +56,7 @@ This repository is a workspace for my solutions to the [FreeCodeCamp](https://ww
 - [Medical Data Validator](https://git.goodkovsky.com/gleb/FreeCodeCamp-Practice/src/branch/main/python/dictionaries-and-sets/workshop/medical-data-validator.md)
 
 ---
+## Repo
+
+- [Forgejo (Primary)](https://git.goodkovsky.com/gleb/FreeCodeCamp-Practice)
+- [Github (Mirror)](https://github.com/GlebGoodkovsky/FreeCodeCamp-Practice)
