@@ -55,6 +55,11 @@ This repository is a workspace for my solutions to the [FreeCodeCamp](https://ww
 
 - [Medical Data Validator](https://git.goodkovsky.com/gleb/FreeCodeCamp-Practice/src/branch/main/python/dictionaries-and-sets/workshop/medical-data-validator.md)
 
+#### Certification Project
+
+- [Medical Data Validator](https://git.goodkovsky.com/gleb/FreeCodeCamp-Practice/src/branch/main/python/dictionaries-and-sets/certification-project/User-Configuration-Manager.md)
+
+
 ---
 ## Repo
 
