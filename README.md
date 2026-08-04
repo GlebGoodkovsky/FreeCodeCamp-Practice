@@ -2,6 +2,7 @@
 
 This repository is a workspace for my solutions to the [FreeCodeCamp](https://www.freecodecamp.org) paths in workshop and lab exercises. It’s meant to document my learning progress and serve as a reference for me and anyone else who wants to review the code answer keys for these activities.
 
+---
 ## Responsive Web Design
 
 ### HTML
@@ -20,7 +21,6 @@ This repository is a workspace for my solutions to the [FreeCodeCamp](https://ww
 - [Build a Recipe Page](https://git.goodkovsky.com/gleb/FreeCodeCamp-Practice/src/branch/main/response-web-design/html/basic-html/labs/build-a-recipe-page.md)
 
 ---
-
 ## Python
 
 ### Python Basics
@@ -59,6 +59,11 @@ This repository is a workspace for my solutions to the [FreeCodeCamp](https://ww
 
 - [Medical Data Validator](https://git.goodkovsky.com/gleb/FreeCodeCamp-Practice/src/branch/main/python/dictionaries-and-sets/certification-project/User-Configuration-Manager.md)
 
+### Error Handling
+
+#### Lab
+
+- [Debug an ISBN Validator](https://git.goodkovsky.com/gleb/FreeCodeCamp-Practice/src/branch/main/python/error-handling/labs/Debug-an-ISBN-Validator.md)
 
 ---
 ## Repo
