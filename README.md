@@ -65,6 +65,12 @@ This repository is a workspace for my solutions to the [FreeCodeCamp](https://ww
 
 - [Debug an ISBN Validator](https://git.goodkovsky.com/gleb/FreeCodeCamp-Practice/src/branch/main/python/error-handling/labs/Debug-an-ISBN-Validator.md)
 
+### Classes and Objects
+
+#### Workshop
+
+- [Musical Instrument Inventory](https://git.goodkovsky.com/gleb/FreeCodeCamp-Practice/src/branch/main/python/classes-and-objects/workshop/Musical-Instrument-Inventory.md)
+
 ---
 ## Repo
 
