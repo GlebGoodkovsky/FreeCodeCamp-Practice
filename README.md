@@ -71,6 +71,10 @@ This repository is a workspace for my solutions to the [FreeCodeCamp](https://ww
 
 - [Musical Instrument Inventory](https://git.goodkovsky.com/gleb/FreeCodeCamp-Practice/src/branch/main/python/classes-and-objects/workshop/Musical-Instrument-Inventory.md)
 
+#### Lab
+
+- [Build a Planet Class](https://git.goodkovsky.com/gleb/FreeCodeCamp-Practice/src/branch/main/python/classes-and-objects/lab/Build-a-Planet-Class.md)
+
 ---
 ## Repo
 
