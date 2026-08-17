@@ -70,6 +70,7 @@ This repository is a workspace for my solutions to the [FreeCodeCamp](https://ww
 #### Workshop
 
 - [Musical Instrument Inventory](https://git.goodkovsky.com/gleb/FreeCodeCamp-Practice/src/branch/main/python/classes-and-objects/workshop/Musical-Instrument-Inventory.md)
+- [Build an Email Simulator](https://git.goodkovsky.com/gleb/FreeCodeCamp-Practice/src/branch/main/python/classes-and-objects/workshop/Musical-Instrument-Inventory.md)
 
 #### Lab
 
