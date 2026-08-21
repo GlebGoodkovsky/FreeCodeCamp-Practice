@@ -23,6 +23,7 @@ This repository is a workspace for my solutions to the [FreeCodeCamp](https://ww
 - [Debug a Pet Adoption Page](https://git.goodkovsky.com/gleb/FreeCodeCamp-Practice/src/branch/main/response-web-design/html/basic-html/labs/debug-a-pet-adoption-page.md)
 - [Build a Recipe Page](https://git.goodkovsky.com/gleb/FreeCodeCamp-Practice/src/branch/main/response-web-design/html/basic-html/labs/build-a-recipe-page.md)
 - [Travel Agency Page](https://git.goodkovsky.com/gleb/FreeCodeCamp-Practice/src/branch/main/response-web-design/html/basic-html/labs/Travel-Agency-Page.md)
+- [HTML Audio and Video Player](https://git.goodkovsky.com/gleb/FreeCodeCamp-Practice/src/branch/main/response-web-design/html/basic-html/labs/HTML-Audio-and-Video-Player.md)
 
 ---
 ## Python
