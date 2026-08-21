@@ -15,6 +15,7 @@ This repository is a workspace for my solutions to the [FreeCodeCamp](https://ww
 - [Build a Cat Photo App](https://git.goodkovsky.com/gleb/FreeCodeCamp-Practice/src/branch/main/response-web-design/html/basic-html/workshops/build-a-cat-photo-app.md)
 - [Bookstore Page](https://git.goodkovsky.com/gleb/FreeCodeCamp-Practice/src/branch/main/response-web-design/html/basic-html/workshops/Bookstore-Page.md)
 - [HTML Music Player](https://git.goodkovsky.com/gleb/FreeCodeCamp-Practice/src/branch/main/response-web-design/html/basic-html/workshops/HTML-Music-Player.md)
+- [HTML Video Player](https://git.goodkovsky.com/gleb/FreeCodeCamp-Practice/src/branch/main/response-web-design/html/basic-html/workshops/HTML-Video-Player.md)
 
 ##### Labs
 
